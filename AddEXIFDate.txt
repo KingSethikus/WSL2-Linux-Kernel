@@ -1,0 +1,61 @@
+======= START OF LOG SECTION =======
+
+01:51:23.615: getFiles START
+01:51:23.692: useFileIO: true
+01:51:23.694: recursive: true
+01:51:23.695: directory: /storage/emulated/0/AllFileRecovery
+01:51:23.703: files size: 1
+01:51:23.704: directory name: Files
+01:51:23.756: files size: 1
+01:51:23.757: Files found: 1
+01:51:23.758: getFiles END
+01:51:23.800: Execute Add Exif Date Action
+01:51:23.803: Preview: true
+
+01:51:23.805: Processing 'AllFileRecovery_2024-06-02_14.51.260.txt'
+01:51:23.911: Does not contain required keyword
+
+
+01:51:23.924: Skipped:1
+01:51:23.925: Errors:0
+____________________________________
+
+01:51:30.750: Start batch renaming
+01:51:31.213: getFiles START
+01:51:31.222: useFileIO: true
+01:51:31.246: recursive: true
+01:51:31.252: directory: /storage/emulated/0/AllFileRecovery
+01:51:31.260: files size: 1
+01:51:31.266: directory name: Files
+01:51:31.308: files size: 1
+01:51:31.310: Files found: 1
+01:51:31.311: getFiles END
+01:51:31.353: Files to process: 1
+01:51:31.356: Execute Add Exif Date Action
+01:51:31.357: Preview: false
+
+01:51:31.362: Processing 'AllFileRecovery_2024-06-02_14.51.260.txt'
+01:51:31.380: Does not contain required keyword
+
+
+01:51:31.403: Fixed:0
+01:51:31.405: Errors:0
+======= END OF LOG SECTION =======
+
+02:14:59.834: Execute Add Exif Date Action
+02:14:59.845: Preview: true
+
+02:14:59.849: Processing 'AllFileRecovery_2024-06-02_14.51.260.txt'
+02:14:59.872: Does not contain required keyword
+
+
+02:14:59.883: Skipped:1
+02:14:59.884: Errors:0
+____________________________________
+
+02:15:01.761: Start batch renaming
+02:15:02.183: getFiles START
+02:15:02.254: Exception getFiles: java.lang.NullPointerException
+02:15:02.260: Files found: 0
+02:15:02.261: getFiles END
+02:15:02.349: no files found
